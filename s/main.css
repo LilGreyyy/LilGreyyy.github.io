@@ -1,0 +1,52 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: hsla(50, 33%, 25%, .75);
+    margin: 1.2em;
+    font-family: mpr;
+    letter-spacing: 3px;
+  }
+
+header {
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+main {
+    height: 560px;
+    display: block;
+}
+
+footer {
+    height: 40px;
+}
+
+.navbar {
+    display: flex !important;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    height: 40px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: block;
+}
+
+.homepage {
+    padding-left: 30px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    font-size: 24px;
+}
+
+.pages {
+    width: 200px;
+    height: 50px;
+    border: none;
+    font-size: 22px;
+}
