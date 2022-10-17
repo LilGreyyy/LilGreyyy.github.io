@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #BC8F8F;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -81,4 +82,27 @@ a {
     padding-top: 20px;
     float: right;
     padding-right: 200px;
+=======
+    background-color:rgb(196, 196, 196);
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+
+}
+
+main {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    
+}
+
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+
+>>>>>>> 62b96558b8b3f3d6fa7496e185c930a39ef2ab84
 }
