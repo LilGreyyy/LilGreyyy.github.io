@@ -1,3 +1,2 @@
 # MySite
-* Saitē ir nedaudz apraksta par mani.
-* Par to, ar ko man patīk nodarboties.
+.[mysite.github.io]. (mysite.github.io)
