@@ -111,11 +111,7 @@ h3 {
     filter: brightness(70%);
 }
 
-<<<<<<< HEAD
 .img-drawing, .img-volley, .img-programming, .img-music, .img-gaming {
-=======
-.img2 {
->>>>>>> 88b494df3875ed11ac87bd2ef230e20f1b68471e
     mix-blend-mode: multiply;
     filter: brightness(90%);
 }
