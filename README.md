@@ -1,2 +1,2 @@
 # MySite
-[lilgreyyy.github.io](https://lilgreyyy.github.io.git/)
+[lilgreyyy.github.io](https://mysite.github.io)
