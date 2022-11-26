@@ -109,12 +109,20 @@ h3 {
     color: #251b1b;
 }
 
+<<<<<<< HEAD
 .img-profile {
+=======
+.img1 {
+>>>>>>> 88b494df3875ed11ac87bd2ef230e20f1b68471e
     mix-blend-mode: hard-light;
     filter: brightness(70%);
 }
 
+<<<<<<< HEAD
 .img-hobbies {
+=======
+.img2 {
+>>>>>>> 88b494df3875ed11ac87bd2ef230e20f1b68471e
     mix-blend-mode: multiply;
     filter: brightness(90%);
 }
