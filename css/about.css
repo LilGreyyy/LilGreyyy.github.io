@@ -46,7 +46,7 @@ footer {
     margin-left: 30px;
 }
 
-#footer {
+.footer {
     display: flex !important;
     text-transform: uppercase;
     list-style-type: none;
@@ -96,7 +96,7 @@ p {
     font-size: 23px;
 }
 
-#hobbies {
+.hobbies {
     margin: 30px 30px 30px 30px;
     width: 260px;
     float: left;
@@ -109,12 +109,12 @@ h3 {
     color: #251b1b;
 }
 
-#img1 {
+.img-profile {
     mix-blend-mode: hard-light;
     filter: brightness(70%);
 }
 
-#img2 {
+.img-hobbies {
     mix-blend-mode: multiply;
     filter: brightness(90%);
 }

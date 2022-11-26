@@ -46,7 +46,7 @@ footer {
     margin-left: 30px;
 }
 
-#footer {
+.footer {
     display: flex !important;
     text-transform: uppercase;
     list-style-type: none;
@@ -102,16 +102,16 @@ h3 {
     color: #251b1b;
 }
 
-#f1 {
+.f1 {
     color: #291e1e;
 }
 
-#img1 {
+.img-profile {
     mix-blend-mode: hard-light;
     filter: brightness(70%);
 }
 
-#img2 {
+.img-drawing, .img-volley, .img-programming, .img-music, .img-gaming {
     mix-blend-mode: multiply;
     filter: brightness(90%);
 }
